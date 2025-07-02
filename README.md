@@ -1,20 +1,25 @@
-About Me
-🎓 Software Engineering student at Ankara Yıldırım Beyazıt University (2021–2026)
+## About Me
+Software Engineering student at Ankara Yıldırım Beyazıt University 🎓 
+
 Curious about tech, focused on solving real problems with clean and scalable code.
 
-Interests
-Deep Learning & Neural Networks
+## Interests
+- Deep Learning & Neural Networks
+- Computer Vision & Image Processing
+- Quantum Computing
+- Data Science & Machine Learning
+- Software Architecture & Clean Code
 
-Computer Vision & Image Processing
+## Get In Touch
 
-Quantum Computing & Data Science
+📧 Email: hruveydaakca106@gmail.com  
+💻 GitHub: [github.com/ruveydaruby](https://github.com/ruveydaruby)  
+🔗 LinkedIn: [linkedin.com/in/hatice-rüveyda-akça](https://www.linkedin.com/in/hatice-rüveyda-akça)  
+<img src="https://github.com/user-attachments/assets/72097540-488f-4fb7-a674-c3953892b132" width="19" /> Europass CV: [Europass CV](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/hatice+r%C3%BCveyda-ak%C3%A7a/a129dbab-e838-48f8-8c76-b1ab1ad6b1c9?view=html)
 
-Software Architecture & Clean Code
 
-Get In Touch
-📧 Email: hruveydaakca106@gmail.com
-💻 GitHub: github.com/ruveydaruby
-🔗 LinkedIn: linkedin.com/in/hatice-rüveyda-akça
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
